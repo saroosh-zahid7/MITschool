@@ -1,0 +1,183 @@
+#col1{
+	padding:20px;
+}
+#head1{
+	display:inline-block;
+	font-family:"Franklin Gothic Medium";
+	font-size:50px;
+	color:rgb(128,0,128);
+}
+#logo{
+	padding-bottom:15px;
+}
+#col2{
+	background-color:rgb(128,0,128);
+	padding:10px;
+	text-align:center;
+	color:white;
+	font-size:15px;
+	border-bottom:3px solid black;
+}
+#link{
+	text-decoration:none;
+	color:white;
+	font-weight:bold;
+	
+}
+#col2:hover{
+	background-color:black;
+}
+#col3{
+	background-color:rgb(128,0,128);
+	padding:10px;
+	font-size:15px;
+	border-bottom:3px solid black;
+}
+#col4{
+	text-align:justify;
+	padding:10px;
+	border-left:1px solid rgb(128,0,128);
+	padding-top:30px;
+	border-bottom:3px solid rgb(128,0,128);
+}
+#col5{
+	padding:10px;
+	padding-top:30px;
+	border-right:1px solid rgb(128,0,128);
+	border-bottom:3px solid rgb(128,0,128);
+}
+#head2{
+	padding:10px;
+	border-bottom:1px solid rgb(128,0,128);
+	color:rgb(128,0,128);
+	border-right:1px solid rgb(128,0,128);
+}
+#para1{
+	padding:20px;
+	border-right:1px solid rgb(128,0,128);
+}
+#col6{
+	padding-top:30px;
+	text-align:justify;
+	padding-right:10px;
+	padding-left:10px;
+	padding-bottom:10px;
+	background-color:rgb(245,245,245)
+}
+#para2{
+	border-right:1px solid rgb(128,0,128);
+	padding:10px;
+}
+#para3{
+	padding:10px;
+}
+#head3{
+	color:rgb(128,0,128);
+	padding:10px;
+	border-bottom:1px solid rgb(128,0,128);
+}
+#col7{
+	text-align:center;
+	font-style:italic;
+	font-weight:bold;
+	background-color: rgb(128,0,128);
+	border-top:3px solid black;
+	color:white;
+	padding:20px;
+	font-size:15px;
+}
+#col8{
+	background-color: rgb(128,0,128);
+	font-size:20px;
+	color:white;
+	font-weight:bold;
+	text-align:right;
+	padding-left:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:30px;
+}
+#col9{
+	background-image:url("../photos/img4.jpg");
+	padding-bottom:500px;
+	background-repeat: no-repeat;
+	font-weight:bold;
+	font-family:"Franklin Gothic Medium";
+	color:white;	
+}
+#head4{
+	font-family:"Franklin Gothic Medium";
+	padding-top:20px;
+}
+#blog1{
+	color:silver;
+	font-size:15px;
+}
+#blog1:hover{
+	color: rgb(128,0,128);
+}
+#blog2{
+	text-align:justify;
+	font-size:16px;
+}
+#col10{
+	padding:10px;
+}
+#col11{
+	padding:10px;
+	border-left:1px solid rgb(245,245,245);
+}
+#col24{
+	padding:15px;
+	font-weight:bold:
+	font-size:15px;
+
+}
+#label1{
+	font-weight:bold;
+	font-size:15px;
+}
+#btn2{
+	width:265px;
+	height:30px;
+	font-size:15px;
+	background-color:white;
+	border:2px solid rgb(128,0,128);
+    color:rgb(128,0,128);
+}
+#btn2:hover{
+	background-color:rgb(128,0,128);
+	color:white;
+}
+#head5{
+	text-align:center;
+	font-family:"Franklin Gothic Medium";
+	padding:10px;
+}
+#img2{
+	padding-left:120px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#para4{
+	text-align:justify;
+	padding:10px;
+}
+#img3{
+	padding-left:30px;
+}
+#img4{
+	padding-left:100px;
+}
+#col13{
+	padding-left:200px;
+}
+#img5{
+	padding-bottom:10px;
+	padding-right:10px;
+}
+
+	
+
+	
+	
